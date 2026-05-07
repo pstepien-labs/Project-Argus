@@ -1,1 +1,1 @@
-{"timestamp":1778196609,"count":1,"aircraft":[{"icao24":"ae3408","callsign":"COVET01","country":"USA","lat":53.752845,"lon":21.994306,"altitude":182.88,"velocity":0.3601108,"heading":null,"on_ground":false}]}
+{"timestamp":1778196909,"count":2,"aircraft":[{"icao24":"ae6cba","callsign":"HUNT44","country":"USA","lat":53.54592,"lon":16.457277,"altitude":243.84,"velocity":58.4408384,"heading":297.24,"on_ground":false},{"icao24":"ae3408","callsign":"COVET01","country":"USA","lat":53.752899,"lon":21.994393,"altitude":182.88,"velocity":0.3601108,"heading":null,"on_ground":false}]}
