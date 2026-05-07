@@ -1,1 +1,1 @@
-{"timestamp":1778178608,"count":1,"aircraft":[{"icao24":"48da83","callsign":"PLF625","country":"Poland","lat":52.25776,"lon":21.626249,"altitude":731.52,"velocity":20.063316,"heading":69,"on_ground":false}]}
+{"timestamp":1778178908,"count":2,"aircraft":[{"icao24":"48da83","callsign":"PLF625","country":"Poland","lat":52.257302,"lon":21.659632,"altitude":640.08,"velocity":72.02216,"heading":184,"on_ground":false},{"icao24":"adfece","callsign":"DUKE63","country":"USA","lat":50.111436,"lon":21.883801,"altitude":1112.52,"velocity":79.3272648,"heading":272.97,"on_ground":false}]}
