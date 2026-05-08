@@ -1,1 +1,1 @@
-{"timestamp":1778223309,"count":0,"aircraft":[]}
+{"timestamp":1778223609,"count":2,"aircraft":[{"icao24":"3f7fe7","callsign":"JUDGE1","country":"Germany","lat":53.825175,"lon":12.649923,"altitude":2880.36,"velocity":171.824296,"heading":107,"on_ground":false},{"icao24":"48d981","callsign":"PLF130","country":"Poland","lat":52.175034,"lon":20.933609,"altitude":403.86,"velocity":81.282152,"heading":294.29,"on_ground":false}]}
