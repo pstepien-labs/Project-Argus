@@ -1,1 +1,1 @@
-{"timestamp":1778310010,"count":1,"aircraft":[{"icao24":"48d841","callsign":"PLF033","country":"Poland","lat":49.380543,"lon":20.658985,"altitude":5760.72,"velocity":106.489908,"heading":159,"on_ground":false}]}
+{"timestamp":1778310308,"count":2,"aircraft":[{"icao24":"3f551d","callsign":"GAF830","country":"Germany","lat":52.369045,"lon":13.485659,"altitude":null,"velocity":9.00277,"heading":null,"on_ground":true},{"icao24":"48d841","callsign":"PLF033","country":"Poland","lat":49.078799,"lon":20.88716,"altitude":5760.72,"velocity":120.89434,"heading":155,"on_ground":false}]}
