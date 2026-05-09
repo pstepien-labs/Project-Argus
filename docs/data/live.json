@@ -1,1 +1,1 @@
-{"timestamp":1778328607,"count":1,"aircraft":[{"icao24":"ae1bed","callsign":null,"country":"USA","lat":51.07287,"lon":15.576629,"altitude":8534.4,"velocity":158.963196,"heading":291,"on_ground":false}]}
+{"timestamp":1778328907,"count":2,"aircraft":[{"icao24":"ae1bed","callsign":null,"country":"USA","lat":51.190856,"lon":14.907135,"altitude":8534.4,"velocity":170.795408,"heading":252,"on_ground":false},{"icao24":"44f683","callsign":"BAF646","country":"Belgium","lat":54.969394,"lon":24.183988,"altitude":1074.42,"velocity":107.77601800000001,"heading":85.89,"on_ground":false}]}
