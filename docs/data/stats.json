@@ -1,1 +1,1 @@
-{"current_count":3,"avg_24h":1.8,"avg_7d":2.7,"avg_30d":3.0,"peak":19,"low":3,"last_updated":1778976541,"countries":[{"name":"USA","count":3}],"alerts":[{"level":"ELEVATED","rule":"count_above_average","message":"3 aircraft \u2014 1.7x above 24h avg (1.8)","triggered_at":1778976541}]}
+{"current_count":0,"avg_24h":1.8,"avg_7d":2.8,"avg_30d":0,"peak":19,"low":0,"last_updated":1778991638,"countries":[],"alerts":[]}
