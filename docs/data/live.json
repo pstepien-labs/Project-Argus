@@ -1,1 +1,1 @@
-{"timestamp":1780203224,"count":0,"aircraft":[]}
+{"timestamp":1780215029,"count":2,"aircraft":[{"icao24":"48d960","callsign":"PLF105","country":"Poland","lat":51.232134,"lon":16.395493,"altitude":12214.86,"velocity":226.40680440000003,"heading":248.68,"on_ground":false},{"icao24":"ae5997","callsign":"GRIT41","country":"USA","lat":52.285446,"lon":20.140991,"altitude":327.66,"velocity":59.418282000000005,"heading":281.99,"on_ground":false}]}
