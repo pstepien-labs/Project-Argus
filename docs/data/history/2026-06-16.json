@@ -1,1 +1,1 @@
-{"date":"2026-06-16","snapshots":[{"timestamp":1781568569,"aircraft":[]}]}
+{"date":"2026-06-16","snapshots":[{"timestamp":1781568569,"aircraft":[]},{"timestamp":1781587864,"aircraft":[{"icao24":"adfebb","callsign":"DUKE58","country":"USA","lat":48.38356,"lon":13.559523,"altitude":10363.2,"velocity":186.1258392,"heading":289.04,"on_ground":false}]},{"timestamp":1781587865,"aircraft":[{"icao24":"adfebb","callsign":"DUKE58","country":"USA","lat":48.38356,"lon":13.559523,"altitude":10363.2,"velocity":186.1258392,"heading":289.04,"on_ground":false}]}]}
