@@ -1,1 +1,1 @@
-{"timestamp":1783021986,"count":0,"aircraft":[]}
+{"timestamp":1783025787,"count":2,"aircraft":[{"icao24":"ae4869","callsign":"HAZE36","country":"USA","lat":52.34729,"lon":17.667313,"altitude":297.18,"velocity":55.045508,"heading":132.4,"on_ground":false},{"icao24":"ae59f7","callsign":"EASY18","country":"USA","lat":52.471027,"lon":17.898376,"altitude":null,"velocity":13.375544,"heading":201.6,"on_ground":true}]}
