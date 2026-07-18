@@ -1,1 +1,1 @@
-{"date":"2026-07-18","snapshots":[{"timestamp":1784333208,"aircraft":[]}]}
+{"date":"2026-07-18","snapshots":[{"timestamp":1784333208,"aircraft":[]},{"timestamp":1784345213,"aircraft":[{"icao24":"ae2fac","callsign":"RCH196","country":"USA","lat":48.733246,"lon":17.99924,"altitude":10363.2,"velocity":204.748712,"heading":304.0,"on_ground":false}]},{"timestamp":1784345214,"aircraft":[{"icao24":"ae2fac","callsign":"RCH196","country":"USA","lat":48.733246,"lon":17.99924,"altitude":10363.2,"velocity":204.748712,"heading":304.0,"on_ground":false}]}]}
