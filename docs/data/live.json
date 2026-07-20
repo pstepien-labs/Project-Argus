@@ -1,1 +1,1 @@
-{"timestamp":1784577697,"count":0,"aircraft":[]}
+{"timestamp":1784582307,"count":2,"aircraft":[{"icao24":"ae1197","callsign":"MOOSE47","country":"USA","lat":49.333971,"lon":14.735211,"altitude":8839.2,"velocity":251.563116,"heading":108.0,"on_ground":false},{"icao24":"48da80","callsign":"PLF622","country":"Poland","lat":52.22129,"lon":21.271977,"altitude":426.72,"velocity":42.184408,"heading":279.0,"on_ground":false}]}
