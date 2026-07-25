@@ -1,1 +1,1 @@
-{"timestamp":1784989130,"count":2,"aircraft":[{"icao24":"33ffe5","callsign":"IAM4665","country":"Italy","lat":49.452667,"lon":17.929543,"altitude":7924.8,"velocity":160.4550836,"heading":226.43,"on_ground":false},{"icao24":"48d824","callsign":null,"country":"Poland","lat":50.107994,"lon":19.80499,"altitude":640.08,"velocity":92.59992,"heading":64.0,"on_ground":false}]}
+{"timestamp":1784993542,"count":1,"aircraft":[{"icao24":"48d824","callsign":null,"country":"Poland","lat":50.101246,"lon":19.786619,"altitude":731.52,"velocity":102.374356,"heading":52.0,"on_ground":false}]}
