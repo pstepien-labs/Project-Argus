@@ -1,1 +1,1 @@
-{"date":"2026-07-31","snapshots":[{"timestamp":1785456978,"aircraft":[{"icao24":"ae146e","callsign":"MOOSE68","country":"USA","lat":49.836451,"lon":14.23494,"altitude":10972.800000000001,"velocity":215.55203600000002,"heading":293.0,"on_ground":false}]}]}
+{"date":"2026-07-31","snapshots":[{"timestamp":1785456978,"aircraft":[{"icao24":"ae146e","callsign":"MOOSE68","country":"USA","lat":49.836451,"lon":14.23494,"altitude":10972.800000000001,"velocity":215.55203600000002,"heading":293.0,"on_ground":false}]},{"timestamp":1785470098,"aircraft":[]}]}
