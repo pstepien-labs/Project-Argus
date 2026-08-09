@@ -1,1 +1,1 @@
-{"timestamp":1786254825,"count":0,"aircraft":[]}
+{"timestamp":1786257826,"count":2,"aircraft":[{"icao24":"498421","callsign":"CEF562","country":"Czech Republic","lat":50.181218,"lon":14.313181,"altitude":3017.52,"velocity":149.8575372,"heading":308.17,"on_ground":false},{"icao24":"ae4d6a","callsign":"RCH136","country":"USA","lat":49.155834,"lon":16.573536,"altitude":9144.0,"velocity":218.6387,"heading":293.0,"on_ground":false}]}
