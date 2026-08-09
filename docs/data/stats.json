@@ -1,1 +1,1 @@
-{"current_count":1,"avg_24h":1.2,"avg_7d":1.9,"avg_30d":1.0,"peak":19,"low":1,"last_updated":1786269274,"countries":[{"name":"NATO","count":1}],"alerts":[]}
+{"current_count":2,"avg_24h":1.2,"avg_7d":1.9,"avg_30d":2.0,"peak":19,"low":1,"last_updated":1786271326,"countries":[{"name":"United Kingdom","count":1},{"name":"Poland","count":1}],"alerts":[{"level":"ELEVATED","rule":"count_above_average","message":"2 aircraft \u2014 1.7x above 24h avg (1.2)","triggered_at":1786271327}]}
