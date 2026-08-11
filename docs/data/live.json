@@ -1,1 +1,1 @@
-{"timestamp":1786472965,"count":0,"aircraft":[]}
+{"timestamp":1786477046,"count":2,"aircraft":[{"icao24":"48d854","callsign":"PLF288","country":"Poland","lat":51.3756,"lon":20.876429,"altitude":4572.0,"velocity":113.17768000000001,"heading":34.0,"on_ground":false},{"icao24":"43c208","callsign":"RRR6205","country":"United Kingdom","lat":50.105617,"lon":20.930811,"altitude":7162.8,"velocity":173.367628,"heading":269.32,"on_ground":false}]}
